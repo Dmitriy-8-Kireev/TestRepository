@@ -24,9 +24,20 @@
   "dependencies": {
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0",
-    "vue": "^2.5.15"
+    "vue": "^2.5.15",
+    "wiredep": "^4.0.0"
   },
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-connect": "^5.5.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uncss": "^1.0.6",
     "webpack": "^3.11.0"
   }
 }

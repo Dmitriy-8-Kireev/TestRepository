@@ -289,3 +289,7 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+body {
+    background: linear-gradient(45deg, #ccc, #666);
+}
